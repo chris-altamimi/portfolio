@@ -19,6 +19,6 @@ With regards to destinations, it seems that people on the way home don't seem to
 
 In regards to how quickly people are using the coupons, It appears that most uses are within 5 minutes of receiving the coupon. This implies that the coupon has had an impact on the customer and has worked to drive business as expected. As for those who use the coupon within 15 minutes, this frequency is halved, and 25 minutes seems to be more often a no. These findings imply that the quicker the customer uses the coupon, the more likely they are to use it. A customer who waits 25 minutes to use a coupon is much less likely to end up using it.
 
-Finally, through investigation of students who accepted the coupon, I found that those with an income of 87500-99999 were extremely significantly more likely to accept the coupon. The mean here
+Finally, through investigation of students who accepted the coupon, I found that those with an income of 87500-99999 were extremely significantly more likely to accept the coupon.
 
 In conclusion, we learned that temperature, destination, passengers, income, and occupation, all had a significant impact on whether the customer ends up using the coupon.  
